@@ -23,12 +23,12 @@ How to authenticate rclone  onedrive
 
 **5.Then cmd will opend like this**
 
-![Screenshot 2021-04-01 115848](https://user-images.githubusercontent.com/67457538/113259230-85386400-92ea-11eb-800c-ac30a80c2bd9.png)
+![Screenshot 2021-04-01 115848](https://user-images.githubusercontent.com/67457538/113716350-1ef77b00-9708-11eb-9d72-ccbb8ab40960.png)
 
 
 **6.Type rclone authorize "onedrive"**
 
-![Screenshot 2021-04-01 120229](https://user-images.githubusercontent.com/67457538/113259314-9b462480-92ea-11eb-9a89-10e459a1cf53.png)
+![Screenshot 2021-04-01 120229](https://user-images.githubusercontent.com/67457538/113716410-33d40e80-9708-11eb-96bf-8dd72fd98650.png)
 
 
 **7.Automatically your browser will redirect to onedrive signin**
